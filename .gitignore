@@ -240,3 +240,6 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/3주차과제/3주차과제.sln
+/3주차과제/3주차과제.vcxproj
+/3주차과제/3주차과제.vcxproj.filters
