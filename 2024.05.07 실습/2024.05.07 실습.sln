@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2024.05.07 실습", "2024.05.07 실습.vcxproj", "{4D51EA6E-0184-422E-A513-918E3E62C16F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제 6-2 순차 자료구조를 이용해 원형 큐 구현하기", "..\예제 6-2 순차 자료구조를 이용해 원형 큐 구현하기\예제 6-2 순차 자료구조를 이용해 원형 큐 구현하기.vcxproj", "{6115FFEF-1429-46B3-9BFD-BADC99FB667B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D51EA6E-0184-422E-A513-918E3E62C16F}.Debug|x64.ActiveCfg = Debug|x64
+		{4D51EA6E-0184-422E-A513-918E3E62C16F}.Debug|x64.Build.0 = Debug|x64
+		{4D51EA6E-0184-422E-A513-918E3E62C16F}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D51EA6E-0184-422E-A513-918E3E62C16F}.Debug|x86.Build.0 = Debug|Win32
+		{4D51EA6E-0184-422E-A513-918E3E62C16F}.Release|x64.ActiveCfg = Release|x64
+		{4D51EA6E-0184-422E-A513-918E3E62C16F}.Release|x64.Build.0 = Release|x64
+		{4D51EA6E-0184-422E-A513-918E3E62C16F}.Release|x86.ActiveCfg = Release|Win32
+		{4D51EA6E-0184-422E-A513-918E3E62C16F}.Release|x86.Build.0 = Release|Win32
+		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Debug|x64.ActiveCfg = Debug|x64
+		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Debug|x64.Build.0 = Debug|x64
+		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Debug|x86.ActiveCfg = Debug|Win32
+		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Debug|x86.Build.0 = Debug|Win32
+		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Release|x64.ActiveCfg = Release|x64
+		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Release|x64.Build.0 = Release|x64
+		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Release|x86.ActiveCfg = Release|Win32
+		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

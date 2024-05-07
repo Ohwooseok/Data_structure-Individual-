@@ -7,6 +7,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2024.04.30 수업 실습", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제 5-1 순차 자료구조 스택 구현", "..\예제 5-1 순차 자료구조 스택 구현\예제 5-1 순차 자료구조 스택 구현.vcxproj", "{D6878EA1-A24A-4660-B992-ECCE319FE65F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제 5-2 연결 자료구조를 이용해 연결 스택 구현하기", "..\예제 5-2 연결 자료구조를 이용해 연결 스택 구현하기\예제 5-2 연결 자료구조를 이용해 연결 스택 구현하기.vcxproj", "{02236EAD-CF52-4B27-9053-824D2A26DF1A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제 5-3 스택을 이용해 수식의 괄호쌍 검사하기", "..\예제 5-3 스택을 이용해 수식의 괄호쌍 검사하기\예제 5-3 스택을 이용해 수식의 괄호쌍 검사하기.vcxproj", "{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제 5-4 수식을 후위 표기법으로 연산하기", "예제 5-4 수식을 후위 표기법으로 연산하기\예제 5-4 수식을 후위 표기법으로 연산하기.vcxproj", "{60539098-90B4-451D-B0A7-ABDE7A8F3658}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +37,30 @@ Global
 		{D6878EA1-A24A-4660-B992-ECCE319FE65F}.Release|x64.Build.0 = Release|x64
 		{D6878EA1-A24A-4660-B992-ECCE319FE65F}.Release|x86.ActiveCfg = Release|Win32
 		{D6878EA1-A24A-4660-B992-ECCE319FE65F}.Release|x86.Build.0 = Release|Win32
+		{02236EAD-CF52-4B27-9053-824D2A26DF1A}.Debug|x64.ActiveCfg = Debug|x64
+		{02236EAD-CF52-4B27-9053-824D2A26DF1A}.Debug|x64.Build.0 = Debug|x64
+		{02236EAD-CF52-4B27-9053-824D2A26DF1A}.Debug|x86.ActiveCfg = Debug|Win32
+		{02236EAD-CF52-4B27-9053-824D2A26DF1A}.Debug|x86.Build.0 = Debug|Win32
+		{02236EAD-CF52-4B27-9053-824D2A26DF1A}.Release|x64.ActiveCfg = Release|x64
+		{02236EAD-CF52-4B27-9053-824D2A26DF1A}.Release|x64.Build.0 = Release|x64
+		{02236EAD-CF52-4B27-9053-824D2A26DF1A}.Release|x86.ActiveCfg = Release|Win32
+		{02236EAD-CF52-4B27-9053-824D2A26DF1A}.Release|x86.Build.0 = Release|Win32
+		{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}.Debug|x64.ActiveCfg = Debug|x64
+		{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}.Debug|x64.Build.0 = Debug|x64
+		{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}.Debug|x86.Build.0 = Debug|Win32
+		{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}.Release|x64.ActiveCfg = Release|x64
+		{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}.Release|x64.Build.0 = Release|x64
+		{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}.Release|x86.ActiveCfg = Release|Win32
+		{FE80BE94-E49F-4A2E-BCB7-AAE1705A4A74}.Release|x86.Build.0 = Release|Win32
+		{60539098-90B4-451D-B0A7-ABDE7A8F3658}.Debug|x64.ActiveCfg = Debug|x64
+		{60539098-90B4-451D-B0A7-ABDE7A8F3658}.Debug|x64.Build.0 = Debug|x64
+		{60539098-90B4-451D-B0A7-ABDE7A8F3658}.Debug|x86.ActiveCfg = Debug|Win32
+		{60539098-90B4-451D-B0A7-ABDE7A8F3658}.Debug|x86.Build.0 = Debug|Win32
+		{60539098-90B4-451D-B0A7-ABDE7A8F3658}.Release|x64.ActiveCfg = Release|x64
+		{60539098-90B4-451D-B0A7-ABDE7A8F3658}.Release|x64.Build.0 = Release|x64
+		{60539098-90B4-451D-B0A7-ABDE7A8F3658}.Release|x86.ActiveCfg = Release|Win32
+		{60539098-90B4-451D-B0A7-ABDE7A8F3658}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
