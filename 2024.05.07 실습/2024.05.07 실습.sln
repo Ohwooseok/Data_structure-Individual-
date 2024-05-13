@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2024.05.07 실습", "2024.0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제 6-2 순차 자료구조를 이용해 원형 큐 구현하기", "..\예제 6-2 순차 자료구조를 이용해 원형 큐 구현하기\예제 6-2 순차 자료구조를 이용해 원형 큐 구현하기.vcxproj", "{6115FFEF-1429-46B3-9BFD-BADC99FB667B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제 6-3 연결 자료구조를 이용해 큐 구현하기", "..\예제 6-3 연결 자료구조를 이용해 큐 구현하기\예제 6-3 연결 자료구조를 이용해 큐 구현하기.vcxproj", "{AB0E4E42-79E0-48C8-A973-07630DE3EC23}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "예제 6-4 이중 연결 리스트를 이용해 데크 구현하기", "예제 6-4 이중 연결 리스트를 이용해 데크 구현하기\예제 6-4 이중 연결 리스트를 이용해 데크 구현하기.vcxproj", "{785A5D86-2824-4A06-8F9A-90B9B848EF2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Release|x64.Build.0 = Release|x64
 		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Release|x86.ActiveCfg = Release|Win32
 		{6115FFEF-1429-46B3-9BFD-BADC99FB667B}.Release|x86.Build.0 = Release|Win32
+		{AB0E4E42-79E0-48C8-A973-07630DE3EC23}.Debug|x64.ActiveCfg = Debug|x64
+		{AB0E4E42-79E0-48C8-A973-07630DE3EC23}.Debug|x64.Build.0 = Debug|x64
+		{AB0E4E42-79E0-48C8-A973-07630DE3EC23}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB0E4E42-79E0-48C8-A973-07630DE3EC23}.Debug|x86.Build.0 = Debug|Win32
+		{AB0E4E42-79E0-48C8-A973-07630DE3EC23}.Release|x64.ActiveCfg = Release|x64
+		{AB0E4E42-79E0-48C8-A973-07630DE3EC23}.Release|x64.Build.0 = Release|x64
+		{AB0E4E42-79E0-48C8-A973-07630DE3EC23}.Release|x86.ActiveCfg = Release|Win32
+		{AB0E4E42-79E0-48C8-A973-07630DE3EC23}.Release|x86.Build.0 = Release|Win32
+		{785A5D86-2824-4A06-8F9A-90B9B848EF2B}.Debug|x64.ActiveCfg = Debug|x64
+		{785A5D86-2824-4A06-8F9A-90B9B848EF2B}.Debug|x64.Build.0 = Debug|x64
+		{785A5D86-2824-4A06-8F9A-90B9B848EF2B}.Debug|x86.ActiveCfg = Debug|Win32
+		{785A5D86-2824-4A06-8F9A-90B9B848EF2B}.Debug|x86.Build.0 = Debug|Win32
+		{785A5D86-2824-4A06-8F9A-90B9B848EF2B}.Release|x64.ActiveCfg = Release|x64
+		{785A5D86-2824-4A06-8F9A-90B9B848EF2B}.Release|x64.Build.0 = Release|x64
+		{785A5D86-2824-4A06-8F9A-90B9B848EF2B}.Release|x86.ActiveCfg = Release|Win32
+		{785A5D86-2824-4A06-8F9A-90B9B848EF2B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
